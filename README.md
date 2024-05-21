@@ -1,11 +1,9 @@
-### Jerrin's GitHub Profile! 👋
+## Jerrin Thomas! 👋
 
 - 🌱 I’m currently doing ... Cybersecurity Projects
 - 📫 How to reach me: ... Via [LinkedIn](https://www.linkedin.com/in/jerrin-thomas-thyparambil/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like cybersecurity
-
-# [Your Name]
 
 ## About Me
 I am a dedicated Information Technology graduate from Federation University, with work experience in the software development industry. Currently, I am pursuing my master's at UHCL with a focus on cybersecurity.
