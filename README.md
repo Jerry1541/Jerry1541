@@ -1,10 +1,10 @@
 # Hello, I am Jerrin Thomas! 👋
 <a href="https://linkedin.com/in/jerrin-thomas-thyparambil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🌱 I’m currently doing ... Cybersecurity Projects
-- 📫 How to reach me: ... Via [LinkedIn](https://www.linkedin.com/in/jerrin-thomas-thyparambil/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like cybersecurity
+>- 🌱 I’m currently doing ... Cybersecurity Projects
+>- 📫 How to reach me: ... Via [LinkedIn](https://www.linkedin.com/in/jerrin-thomas-thyparambil/)
+>- 😄 Pronouns: ... He/Him
+>- ⚡ Fun fact: ... I like cybersecurity
 
 ## 🧑 About Me
 I am a dedicated Information Technology graduate from Federation University, with work experience in the software development industry. Currently, I am pursuing my master's at UHCL with a focus on **cybersecurity**.
@@ -13,13 +13,15 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
-### [Database Security Setup]
+<h3><a href="https://github.com/Jerry1541/SIEM-Environment">[Database Security Setup]</a></h3>
+
 -	Led the orchestration of database setup on AWS cloud instances to efficiently host project data.
 -	Monitored and responded to security issues, effectively preventing threats such as SQL injections.
 -	Achieved high stakeholder satisfaction and resulted in top 3% of all highest scores.
 - **Technologies Used:** [AWS, GitHub, PostgreSQL, SQL, XAMPP]
 
-### [SIEM Environment]
+<h3>[SIEM Environment]</h3>
+
 -	Managed Azure based SIEM with over 5,000 RDP attacks originating from Russia, China, and Europe.
 -	Configured Log Analytics Workspace for ingesting custom logs efficiently from a honeypot VM.
 -	Set up Azure Sentinel Workbooks to visualize and analyze global RDP attack patterns
