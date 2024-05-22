@@ -1,27 +1,18 @@
 # Hello, I am Jerrin Thomas! 👋
+<a href="https://linkedin.com/in/jerrin-thomas-thyparambil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 🌱 I’m currently doing ... Cybersecurity Projects
 - 📫 How to reach me: ... Via [LinkedIn](https://www.linkedin.com/in/jerrin-thomas-thyparambil/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like cybersecurity
 
-## About Me
-I am a dedicated Information Technology graduate from Federation University, with work experience in the software development industry. Currently, I am pursuing my master's at UHCL with a focus on cybersecurity.
+## 🧑 About Me
+I am a dedicated Information Technology graduate from Federation University, with work experience in the software development industry. Currently, I am pursuing my master's at UHCL with a focus on **cybersecurity**.
 
-## Looking For
+## ❗ Looking For
 I am seeking opportunities for a Cybersecurity Analyst role.
 
-## College Assignments
-- **Network Planning**
-- **IPTable Firewall Setup**
-- **Security Vulnerability Tools Review (NMap)**
-
-## Skills
-- **Programming Languages:** [Java, SQL, JavaScript]
-- **Cybersecurity Tools:** [NMap]
-- **Software/Applications:** [Oracle Virtual Box, Wireshark, Kali Linux]
-
-## Projects
+## ⚒️ Projects
 ### [Database Security Setup]
 -	Led the orchestration of database setup on AWS cloud instances to efficiently host project data.
 -	Monitored and responded to security issues, effectively preventing threats such as SQL injections.
@@ -33,4 +24,26 @@ I am seeking opportunities for a Cybersecurity Analyst role.
 -	Configured Log Analytics Workspace for ingesting custom logs efficiently from a honeypot VM.
 -	Set up Azure Sentinel Workbooks to visualize and analyze global RDP attack patterns
 - **Technologies Used:** [Azure, Log Analytics Workbook, Azure Sentinel, VM]
+
+## ⚙️ Tools
+<table>
+    <th>Skill</th>
+    <th>Tools</th>
+    <tr>
+        <td>Programming Languages</td>
+        <td>Java, SQL, JavaScript</td>
+    </tr>
+    <tr>
+        <td>Cybersecurity</td>
+        <td>NMap</td>
+    </tr>
+    <tr>
+        <td>Software/Applications</td>
+        <td>Oracle Virtual Box, Wireshark, Kali Linux</td>
+    </tr>
+</table>
  	
+## 🏫 College Assignments
+- **Network Planning**
+- **IPTable Firewall Setup**
+- **Security Vulnerability Tools Review (NMap)**
