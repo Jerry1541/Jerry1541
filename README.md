@@ -46,4 +46,5 @@ I am seeking opportunities for a Cybersecurity Analyst role.
 ## 🏫 College Assignments
 - **Network Planning**
 - **IPTable Firewall Setup**
-- **Security Vulnerability Tools Review (NMap)**
+- <a href="https://youtu.be/CQ2D46b3SiA">Security Vulnerability Tools Review (NMap)</a>
+- <a href="https://youtu.be/vHWXEoPimpc">Vulnerability Research and Investigation</a>
