@@ -13,7 +13,7 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
-<h3><a href="https://github.com/Jerry1541/ecommerce-website">[Database Security Setup]</a></h3>
+<h3>[Database Security Setup]</h3>
 
 - Led the orchestration of database setup on AWS cloud instances and managed user authorizations.
 - Monitored and responded to security issues, effectively preventing threats such as SQL injections.
