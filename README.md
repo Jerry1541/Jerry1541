@@ -13,14 +13,14 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
-<h3><a href="https://github.com/Jerry1541/SIEM-Environment">[Database Security Setup]</a></h3>
+<h3>[Database Security Setup]</h3>
 
 -	Led the orchestration of database setup on AWS cloud instances to efficiently host project data.
 -	Monitored and responded to security issues, effectively preventing threats such as SQL injections.
 -	Achieved high stakeholder satisfaction and resulted in top 3% of all highest scores.
 - **Technologies Used:** [AWS, GitHub, PostgreSQL, SQL, XAMPP]
 
-<h3>[SIEM Environment]</h3>
+<h3><a href="https://github.com/Jerry1541/SIEM-Environment">[SIEM Environment]</a></h3>
 
 -	Managed Azure based SIEM with over 5,000 RDP attacks originating from Russia, China, and Europe.
 -	Configured Log Analytics Workspace for ingesting custom logs efficiently from a honeypot VM.
