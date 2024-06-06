@@ -7,7 +7,7 @@
 >- ⚡ Fun fact: ... I like cybersecurity
 
 ## 🧑 About Me
-I am a dedicated Information Technology graduate from Federation University, with work experience in the software development industry. Currently, I am pursuing my master's at UHCL with a focus on **cybersecurity**.
+I am a dedicated Information Technology graduate from Federation University, with experience in securing systems and preventing threats. Currently, I am pursuing my master's at UHCL with a focus on **cybersecurity**.
 
 ## ❗ Looking For
 I am seeking opportunities for a Cybersecurity Analyst role.
