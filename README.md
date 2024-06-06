@@ -13,6 +13,13 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
+<h3><a href="https://github.com/Jerry1541/Active-Directory">[Active Directory]</a></h3>
+
+- Set up Active Directory Services on an ISO Server 2019.
+- Work with DHCP and DNS to provide network access and supply client with IP address lease and scope.
+- Powershell script to create 1000+ users with relevant OU information.
+- **Technologies Used:** [Active Directory Domain Service, DHCP, DNS, RAS/NAT]
+
 <h3>[Database Security Setup]</h3>
 
 - Led the orchestration of database setup on AWS cloud instances and managed user authorizations.
