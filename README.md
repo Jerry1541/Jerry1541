@@ -51,7 +51,7 @@ I am seeking opportunities for a Cybersecurity Analyst role.
     </tr>
     <tr>
         <td>Cybersecurity</td>
-        <td>NMap</td>
+        <td>NMap, Active Directory, Nessus</td>
     </tr>
     <tr>
         <td>Software/Applications</td>
