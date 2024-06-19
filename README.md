@@ -13,6 +13,13 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
+<h3><a href="https://github.com/Jerry1541/Vulnerability-Management-Lab">[Vulnerability Management]</a></h3>
+
+- Understanding the process of vulnerability management.
+- Use of industry tools like Nessus to perform scans with and without credentials.
+- Remediate vulnerabilities and learn mitigative strategies.
+- **Technologies Used:** [Nessus Essentials, Oracle Virtual Box]
+
 <h3><a href="https://github.com/Jerry1541/Active-Directory">[Active Directory]</a></h3>
 
 - Set up Active Directory Services on an ISO Server 2019.
