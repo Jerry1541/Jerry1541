@@ -16,9 +16,9 @@ I am seeking opportunities for a Cybersecurity Analyst role.
 <h3><a href="https://github.com/Jerry1541/Vulnerability-Management-Lab">[Vulnerability Management]</a></h3>
 
 - Understanding the process of vulnerability management.
-- Use of industry tools like Nessus to perform scans with and without credentials.
+- Use of industry tools like Nessus and Burpsuite to perform scans and discover vulnerabilities.
 - Remediate vulnerabilities and learn mitigative strategies.
-- **Technologies Used:** [Nessus Essentials, Oracle Virtual Box]
+- **Technologies Used:** [Nessus Essentials, PortSwigger Burpsuite, Oracle Virtual Box]
 
 <h3><a href="https://github.com/Jerry1541/Active-Directory">[Active Directory]</a></h3>
 
