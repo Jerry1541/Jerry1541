@@ -13,6 +13,13 @@ I am a dedicated Information Technology graduate from Federation University, wit
 I am seeking opportunities for a Cybersecurity Analyst role.
 
 ## ⚒️ Projects
+<h3><a href="https://github.com/Jerry1541/Incident-Response-and-Review">[Incident Response and Review]</a></h3>
+
+- Incident identification and investigation of attacks taken place (going over IPs and logs to determine attacks).
+- Peruse and become familiar with Windows Event logs and attacks (brute-force, unauthorized RDP, lateral movement).
+- Develop short-term and long-term plans for incident response containment and eradication.
+- **Technologies Used:** [Eric Zimmerman’s Timeline explorer, Bulk IP lookup tool, Abuseipdb]
+
 <h3><a href="https://github.com/Jerry1541/Vulnerability-Management-Lab">[Vulnerability Management]</a></h3>
 
 - Understanding the process of vulnerability management.
