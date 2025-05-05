@@ -7,7 +7,11 @@
 >- ⚡ Fun fact: ... I like cybersecurity
 
 ## 🧑 About Me
-I am a dedicated Information Technology graduate from Federation University, with experience in securing systems and preventing threats. Currently, I am pursuing my master's at UHCL with a focus on **cybersecurity**.
+I am a detail-oriented and security-driven professional with nearly 2 years of experience in software development and cybersecurity. 
+
+I have a strong background in **network security**, **incident response**, and **secure application development**, along with practical experience using tools like **Wireshark** and **Burp Suite**.
+
+I’m currently seeking entry-level or early-career roles as a Cybersecurity Analyst or SOC Analyst, where I can grow with a forward-thinking security team and contribute to building safer digital environments.
 
 ## ❗ Looking For
 I am seeking opportunities for a Cybersecurity Analyst role.
